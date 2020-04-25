@@ -5,9 +5,10 @@
 }
 
 .navigation-menu {
-    width: 572px;
-    margin: 72px auto 90px;
+    padding-top: 72px;
+    padding-bottom: 90px;
     font-size: 0px;
+    text-align: center;
 }
 
 .navigation-menu li {
